@@ -1,0 +1,27 @@
+{
+  "name": "KRAKEN - Freediving Store",
+  "short_name": "KRAKEN",
+  "description": "Equipos premium de freediving para profesionales y entusiastas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0c4a6e",
+  "theme_color": "#0c4a6e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/kraken-logo.png",
+      "type": "image/png",
+      "sizes": "any",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/kraken-logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["shopping", "sports", "lifestyle"],
+  "lang": "es",
+  "dir": "ltr"
+} 

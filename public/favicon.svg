@@ -1,0 +1,27 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="krakenFavicon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#22d3ee;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0891b2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#164e63;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Main octopus head -->
+  <ellipse cx="16" cy="11" rx="7" ry="5.5" fill="url(#krakenFavicon)"/>
+  
+  <!-- Eyes -->
+  <ellipse cx="13.5" cy="9.5" rx="1.2" ry="1.8" fill="#7dd3fc"/>
+  <ellipse cx="18.5" cy="9.5" rx="1.2" ry="1.8" fill="#7dd3fc"/>
+  <ellipse cx="13.5" cy="9.8" rx="0.5" ry="0.8" fill="#0c4a6e"/>
+  <ellipse cx="18.5" cy="9.8" rx="0.5" ry="0.8" fill="#0c4a6e"/>
+  
+  <!-- Simplified tentacles -->
+  <path d="M 10.5 15 Q 6 18 8 24" stroke="url(#krakenFavicon)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 12.5 16 Q 8 19 10 25" stroke="url(#krakenFavicon)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M 14 16.5 Q 11 21 13 26" stroke="url(#krakenFavicon)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M 16 16.5 Q 15 22 16 28" stroke="url(#krakenFavicon)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M 18 16.5 Q 21 21 19 26" stroke="url(#krakenFavicon)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M 19.5 16 Q 24 19 22 25" stroke="url(#krakenFavicon)" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M 21.5 15 Q 26 18 24 24" stroke="url(#krakenFavicon)" stroke-width="2" fill="none" stroke-linecap="round"/>
+</svg> 

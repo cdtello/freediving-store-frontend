@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://kraken-freediving.com/sitemap.xml
+
+# Important pages for crawling
+Allow: /catalog
+Allow: /about
+Allow: /contact
+
+# Block admin or sensitive areas (if any in future)
+Disallow: /admin/
+Disallow: /api/private/
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1 
